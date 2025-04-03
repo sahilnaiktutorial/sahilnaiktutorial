@@ -8,13 +8,13 @@
 &nbsp;Java&nbsp; | &nbsp;JDBC&nbsp; | &nbsp;Servlets&nbsp; | &nbsp;Hibernate&nbsp; | &nbsp;Spring&nbsp; | &nbsp;Spring Boot&nbsp; | &nbsp;Spring Security&nbsp;
 
 ⛺️ **Frontend:** 
-&nbsp;HTML5&nbsp; | &nbsp;CSS3&nbsp; | &nbsp;JavaScript&nbsp;
+&nbsp;HTML5&nbsp; | &nbsp;CSS3&nbsp; | &nbsp;JavaScript&nbsp; | &nbsp;React.js&nbsp;
 
 📁 **Database:**
 &nbsp;MySQL&nbsp; | &nbsp;Oracle&nbsp; 
 
 🧰 **Tools:**
-&nbsp;Git & GitHub&nbsp; | &nbsp;Postman&nbsp; | &nbsp;Jenkins&nbsp; | &nbsp;Maven&nbsp; | &nbsp;Eclipse IDE&nbsp; | &nbsp;IntelliJ IDEA&nbsp; | &nbsp;VS Code&nbsp;
+&nbsp;Git & GitHub&nbsp; | &nbsp;Postman&nbsp; | &nbsp;Maven&nbsp; | &nbsp;Eclipse IDE&nbsp; | &nbsp;IntelliJ IDEA&nbsp; | &nbsp;VS Code&nbsp;
 
 ---
 <a href="https://github.com/sahilnaiktutorial"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilnaiktutorial&theme=tokyonight&hide_border=true"></a>
