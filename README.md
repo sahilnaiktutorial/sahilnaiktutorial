@@ -16,6 +16,9 @@
 🧰 **Tools:**
 &nbsp;Git & GitHub&nbsp; | &nbsp;Postman&nbsp; | &nbsp;Maven&nbsp; | &nbsp;Eclipse IDE&nbsp; | &nbsp;IntelliJ IDEA&nbsp; | &nbsp;VS Code&nbsp;
 
+🤖 **AI Tools:**  
+&nbsp; ChatGPT&nbsp; | &nbsp;GitHub Copilot&nbsp; | &nbsp;Google Gemini&nbsp; | &nbsp;Claude&nbsp; | &nbsp;OpenAI API&nbsp; | &nbsp;Hugging Face&nbsp; | &nbsp;LangChain&nbsp; | &nbsp;Ollama&nbsp; | &nbsp;Cursor AI&nbsp;
+
 ---
 <a href="https://github.com/sahilnaiktutorial"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilnaiktutorial&theme=tokyonight&hide_border=true"></a>
 <a href="https://github.com/sahilnaiktutorial"><img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahilnaiktutorial&theme=tokyonight&hide_border=true"></a> 
